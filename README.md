@@ -8,7 +8,7 @@
 
 ## Recoil
 
-- Recoil 공식문서
+- Recoil 공식문서 + chatGPT
 
 ## Next
 
